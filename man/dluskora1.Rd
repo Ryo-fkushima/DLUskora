@@ -1,7 +1,7 @@
 \name{dluskora1}
 \alias{dluskora1}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{dluskora1
+\title{dluskora1:A simulator of diffusion-limited REE uptake by garnets
 %%  ~~function to do ... ~~
 }
 \description{
