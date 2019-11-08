@@ -50,7 +50,6 @@ The final size of the garnet [cm]
 \item{Tm_1, Tm_2}{
 }
 \item{gmratio}{
-The final size of the garnet [cm]
 }
 
 
@@ -92,9 +91,9 @@ Ryo Fukushima
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 %}
 \examples{
-dluskora2(fac1=(1.78 *10^(21)), Q=300000, syR=0.60, c_ave=30,
-D_0=(4 * 10^(13)), R=8.3, T_1=450, T_2=600, K_d=15, Mr=100,
-Mt=45, ft=1, garsize=0.27, Tm_1=500, Tm_2=550, gmratio=0.5)
+dluskora2(fac1=(10^(20)), Q=300000, syR=0.20, c_ave=30,
+D_0=(10^(13)), R=8.3, T_1=450, T_2=600, K_d=15, Mr=100,
+Mt=74, ft=1, garsize=0.1, Tm_1=500, Tm_2=550, gmratio=0.5)
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.

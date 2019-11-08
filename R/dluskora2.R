@@ -436,7 +436,7 @@ fg <- 1 #garnet growth factor r = At^(fg)
   (mas[j] / mas[1] - 1) * 100 #gain of the mass(%)
   mas#mass profile
   cter#garnet points number
- # return(list(mass_value = mas, garnet_mesh = cter, mass_gain_percent = (mas[j] / mas[1] - 1) * 100))
+ return(list(mass_value = mas, garnet_mesh = cter, mass_gain_percent = (mas[j] / mas[1] - 1) * 100))
 
 
 
