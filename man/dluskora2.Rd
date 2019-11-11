@@ -1,12 +1,12 @@
 \name{dluskora2}
 \alias{dluskora2}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{dluskora2:A simulator of diffusion-limited REE uptake by garnets (a little different from dluskora1)
+\title{dluskora2:A simulator of diffusion-limited REE uptake by garnets
 %%  ~~function to do ... ~~
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
-"dluskora2" resembles dluskora1 but this can be  more useful if you'd like to simulate REE profile with complicated growth of garnets. You can set radius-time path as four points and three straight lines.
+"dluskora2" resembles dluskora1 but this can be more useful if you'd like to simulate REE profile with complicated growth of garnets. You can set radius-time path as a combination of four points and three straight lines.
 }
 \usage{
 dluskora2(fac1, Q, syR, c_ave, D_0, R, T_1, T_2, K_d, Mr, Mt, ft, garsize, Tm_1, Tm_2, gmratio)
@@ -48,8 +48,10 @@ This is an exponent of the temperature-increase law. If you set ft as 1, the tem
 The final size of the garnet [cm]
 }
 \item{Tm_1, Tm_2}{
+This function can simulate the REE profile with a bending radius-time path. Tm_1 and Tm_2 mean the bending points' temperature. Garnet growth stops when temperature is in the range between Tm_1 and Tm_2. They of course should be bigger than T_1 and smaller than T_2.
 }
 \item{gmratio}{
+"gmratio" is the ratio of the Tm_1 garnet radius divided by "garsize".
 }
 
 
