@@ -63,9 +63,9 @@ The final size of the garnet [cm]
 %}
 \references{
 %% ~put references to the literature/web site here ~
-Crank (1975) The mathematics of diffusion. Oxford University Press, p414.
+Crank (1975) The mathematics of diffusion. Oxford University Press, p414
 
-Skora et al. (2006) Diffusion-limited REE uptake by eclogite garnets and its consequences for Lu-Hf and Sm-Nd geochronology. Contrib. Mineral Petrol., 152:703-720.
+Skora et al. (2006) Diffusion-limited REE uptake by eclogite garnets and its consequences for Lu-Hf and Sm-Nd geochronology. Contrib Mineral Petrol 152:703-720
 }
 \author{
 %%  ~~who you are~~
