@@ -4,7 +4,7 @@
 **dluskola** is a viable tool for simulating trace-elements zoning patterns in a
 prograde garnet porphyroblast in low-*T* eclogite.
 This is based on the theory given by **Skora et al. (2006)**.
-Using this tool, we can discuss the kinetics REE diffusion and garnet growth in subduction zones.
+Using this tool, we can discuss the kinetics of REE diffusion and garnet growth in subduction zones.
 
 ## Features
 This package encompasses two functions: **dluskora1** and **dluskora2**. By choosing more appropriate one and setting some parameters, you can easily draw theoretical core-to-rim REE profiles.
