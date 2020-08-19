@@ -41,10 +41,10 @@ The partition coefficient > 1 (REE concentration of garnet over REE concentratio
 The numbers of spatial (radial) and time meshes, respectively
 }
 \item{fg}{
-An exponent of the garnet's growth law. If you set fg as 1, the garnet will grow with the linear growth rate law: r = A t.
+The exponent of the garnet's growth law. If you set fg as 1, the garnet will grow with the linear growth rate law: r = A t.
 }
 \item{ft}{
-An exponent of the temperature-increase law. If you set ft as 1, the temperature will increase with the linier increase rate law: T = B t.
+The exponent of the temperature-increase law. If you set ft as 1, the temperature will increase with the linier increase rate law: T = B t.
 }
 \item{garsize}{
 The final radius of the garnet [cm]
