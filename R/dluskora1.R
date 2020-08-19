@@ -379,7 +379,7 @@ dluskora1 <- function(fac1, Q, syR, c_ave, D_0, R, T_1, T_2, K_d, Mr, Mt, fg, ft
 
   p <- seq(0, (1.1 * garsize), by = (1.1 * garsize))
   q <- seq(0, (c_ave * K_d * 1.1), by = (c_ave * K_d * 1.1))
-  plot(p, q, ylab = ("REE [ppm]"), xlab = "Radius [cm]", xaxs = "i", yaxs = "i", axes = T)
+  plot(p, q, ylab = ("REE [ppm]"), xlab = "Radius [cm]", xaxs = "i", yaxs = "i", axes = T, type="n")
 
   #lines(x, c[(Mt - 1),])#graph making
   lines(x, c[Mt,])
