@@ -14,7 +14,7 @@ dluskora1(fac1, Q, syR, c_ave, D_0, R, T_1, T_2, K_d, Mr, Mt, fg, ft, garsize)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{fac1}{
-This is a "diffusion length" and equal to D_0/A [cm]. A is the garnet growth coefficient (r = A t^(fg)). The meanings of D_0 and fg are shown below.
+This is a "diffusion length" and equal to D_0/A [cm]. A is the garnet growth coefficient (r = A t^(fg)). The meanings of D_0 and fg are shown below. This corresponds to the parameter "u" in Fukushima et al. (in prep).
 }
 \item{Q}{
 Activation energy of REE diffusion around the garnet [J/mol]
@@ -63,9 +63,12 @@ The final size of the garnet [cm]
 %}
 \references{
 %% ~put references to the literature/web site here ~
-Crank (1975) The mathematics of diffusion. Oxford University Press, p414
+Crank J (1975) The mathematics of diffusion. Oxford University Press, p414
 
-Skora et al. (2006) Diffusion-limited REE uptake by eclogite garnets and its consequences for Lu-Hf and Sm-Nd geochronology. Contrib Mineral Petrol 152:703-720
+Fukushima R, Tsujimori T, Aoki S, Aoki K (in prep) A new scheme of diffusion-limited REE-uptake model for prograde-zoned garnets in low-temperature eclogite: Principle and application. Isl Arc
+
+Skora S, Baumgartner LP, Mahlen NJ, Johnson CM, Pilet S, Hellebrand E (2006) Diffusion-limited REE uptake by eclogite garnets
+and its consequences for Lu–Hf and Sm–Nd geochronology. Contrib Mineral Petrol 152:703-720
 }
 \author{
 %%  ~~who you are~~

@@ -26,3 +26,12 @@ Output is generated with the *plot* function. If you have REE profiles in natura
 
 ## Author
 Ryo Fukushima (Tohoku University, Sendai, Japan)
+
+## References
+Fukushima R, Tsujimori T, Aoki S, Aoki K (in prep) A new scheme of diffusion-limited REE-uptake model for prograde-zoned garnets in low-temperature eclogite: Principle and application. Isl Arc
+
+Skora S, Baumgartner LP, Mahlen NJ, Johnson CM, Pilet S, Hellebrand E (2006) Diffusion-limited REE uptake by eclogite garnets
+and its consequences for Lu–Hf and Sm–Nd geochronology. Contrib Mineral Petrol 152:703-720
+
+
+
