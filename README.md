@@ -10,7 +10,7 @@ Using this tool, we can discuss the kinetics of REE diffusion and garnet growth 
 This package encompasses two functions: **dluskora1** and **dluskora2**. By choosing more appropriate one and setting some parameters, you can easily draw theoretical core-to-rim REE profiles.
 **dluskora1** is suitable for a situation under which a garnet radius can be approximated by a linear function of time,
 while **dluskora2** (beta version) is useful when a radius–time trajectory is not expressed as a straight line.
-Moreover, these functions are also compatible with the idea of parameter reduction by **Fukushima et al. (*Island Arc*, in prep)**.
+Moreover, these functions are also compatible with the idea of parameter reduction by **Fukushima et al. (*Island Arc*, in revision)**.
 ## Requirement
 R 3.6.0
 ## Installation
@@ -28,7 +28,7 @@ Output is generated with the *plot* function. If you have REE profiles in natura
 Ryo Fukushima (Tohoku University, Sendai, Japan)
 
 ## References
-Fukushima R, Tsujimori T, Aoki S, Aoki K (in prep) A new scheme of diffusion-limited REE-uptake model for prograde-zoned garnets in low-temperature eclogite: Principle and application. Isl Arc
+Fukushima R, Tsujimori T, Aoki S, Aoki K (in revision) Trace-elemnt zoning patterns in porphyroblastic garnets in low-T eclogites: Parameter optimization of the diffusion-limited REE-uptake model. Isl Arc
 
 Skora S, Baumgartner LP, Mahlen NJ, Johnson CM, Pilet S, Hellebrand E (2006) Diffusion-limited REE uptake by eclogite garnets
 and its consequences for Lu–Hf and Sm–Nd geochronology. Contrib Mineral Petrol 152:703-720
