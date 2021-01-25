@@ -82,7 +82,7 @@ Ryo Fukushima
 %% ~put references to the literature/web site here ~
 Crank J (1975) The mathematics of diffusion. Oxford University Press, p414
 
-Fukushima R, Tsujimori T, Aoki S, Aoki K (in revision) Trace-elemnt zoning patterns in porphyroblastic garnets in low-T eclogites: Parameter optimization of the diffusion-limited REE-uptake model. Isl Arc
+Fukushima R, Tsujimori T, Aoki S, Aoki K (in revision) Trace-element zoning patterns in porphyroblastic garnets in low-T eclogites: Parameter optimization of the diffusion-limited REE-uptake model. Isl Arc
 
 Skora S, Baumgartner LP, Mahlen NJ, Johnson CM, Pilet S, Hellebrand E (2006) Diffusion-limited REE uptake by eclogite garnets
 and its consequences for Lu–Hf and Sm–Nd geochronology. Contrib Mineral Petrol 152:703-720
