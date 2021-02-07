@@ -14,7 +14,7 @@ dluskora1(fac1, Q, syR, c_ave, D_0, R, T_1, T_2, K_d, Mr, Mt, fg, ft, garsize)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{fac1}{
-This is a "diffusion length" and equal to D_0/A [cm]. A is the garnet growth coefficient (r = A t^(fg)). The meanings of D_0 and fg are shown below. This corresponds to the parameter "u" in Fukushima et al. (in prep).
+This parameter equals D_0/A [cm]. A is the garnet growth coefficient (r = A t^(fg)). The meanings of D_0 and fg are shown below. This corresponds to the parameter "u" in Fukushima et al. (in revision).
 }
 \item{Q}{
 The activation energy of REE diffusion around the garnet [J/mol]
