@@ -14,7 +14,7 @@ dluskora2(fac1, Q, syR, c_ave, D_0, R, T_1, T_2, K_d, Mr, Mt, ft, garsize, Tm_1,
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{fac1}{
-This parameter equals D_0/A [cm]. A is the garnet growth coefficient (r = A t^(fg)). The meanings of D_0 and fg are shown below. This corresponds to the parameter "u" in Fukushima et al. (in revision).
+This parameter equals D_0/A [cm]. A is the garnet growth coefficient (r = A t^(fg)). The meanings of D_0 and fg are shown below. This corresponds to the parameter "u" in Fukushima et al. (2021).
 }
 \item{Q}{
 The activation energy of REE diffusion around the garnet [J/mol]
@@ -86,7 +86,7 @@ Ryo Fukushima
 %% ~put references to the literature/web site here ~
 Crank J (1975) The mathematics of diffusion. Oxford University Press, p414
 
-Fukushima R, Tsujimori T, Aoki S, Aoki K (in revision) Trace-element zoning patterns in porphyroblastic garnets in low-T eclogites: Parameter optimization of the diffusion-limited REE-uptake model. Isl Arc
+Fukushima R, Tsujimori T, Aoki S, Aoki K (2021) Trace-element zoning patterns in porphyroblastic garnets in low-T eclogites: Parameter optimization of the diffusion-limited REE-uptake model. Isl Arc
 
 Skora S, Baumgartner LP, Mahlen NJ, Johnson CM, Pilet S, Hellebrand E (2006) Diffusion-limited REE uptake by eclogite garnets
 and its consequences for Lu–Hf and Sm–Nd geochronology. Contrib Mineral Petrol 152:703-720

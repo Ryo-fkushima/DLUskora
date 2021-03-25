@@ -1,9 +1,9 @@
 Package: dluskora
 Type: Package
-Title: A simulator of diffusion-limited REE uptake by eclogite garnets 
-Version: 0.1.0
+Title: Simulator of diffusion-limited REE uptake by eclogite garnets 
+Version: 1.0.0
 Author: Ryo Fukushima
-Maintainer: Ryo Fukushima <someone@somewhere.com>
+Maintainer: Ryo Fukushima <ryo.fukushima.p7@dc.tohoku.ac.jp>
 Description: Package to simulate diffusion-limited REE uptake by a growing eclogite garnet
 License: MIT
 Encoding: UTF-8
