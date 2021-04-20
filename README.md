@@ -28,7 +28,7 @@ Output is generated with the *plot* function. If you have REE profiles in natura
 Ryo Fukushima (Tohoku University, Sendai, Japan)
 
 ## References
-Fukushima R, Tsujimori T, Aoki S, Aoki K (2021) Trace-element zoning patterns in porphyroblastic garnets in low-T eclogites: Parameter optimization of the diffusion-limited REE-uptake model. Isl Arc
+Fukushima R, Tsujimori T, Aoki S, Aoki K (2021) Trace-element zoning patterns in porphyroblastic garnets in low-T eclogites: Parameter optimization of the diffusion-limited REE-uptake model. Isl Arc 30:e12394
 
 Skora S, Baumgartner LP, Mahlen NJ, Johnson CM, Pilet S, Hellebrand E (2006) Diffusion-limited REE uptake by eclogite garnets
 and its consequences for Lu–Hf and Sm–Nd geochronology. Contrib Mineral Petrol 152:703-720
